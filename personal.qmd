@@ -1,0 +1,10 @@
+---
+title: "About Me"
+format: html
+editor: visual
+---
+
+### Interests Outside of Work
+
+* Tennis, hiking, building furniture and home DIY projects, trying out new restaurants, and spending time with family and friends.
+* Continuous learning: listening to a variety of podcasts or audiobooks, reading, and taking classes!

@@ -6,9 +6,12 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/lgunnsandell
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/laurengunnsandell/ 
 ---
 
-<!-- ![](images/NewHeadshot_LGS_1_small.jpg){width="347"} -->
+![](images/NewHeadshot_LGS_1_small.jpg){width="347"}
 
 # Lauren Gunn-Sandell
 

@@ -9,6 +9,8 @@ website:
       - index.qmd
       - personal.qmd
       - projects.qmd
+      - research.qmd
+      - contact.qmd
       
 editor: visual
 

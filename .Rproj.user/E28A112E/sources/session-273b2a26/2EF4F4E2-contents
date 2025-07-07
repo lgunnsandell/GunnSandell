@@ -3,14 +3,24 @@ project:
   output-dir: docs
   
 website: 
-    title: Lauren Gunn-Sandell
-    navbar:
-      left:
+  title: Lauren Gunn-Sandell
+  search: true
+  navbar:
+    pinned: true
+    left:
       - index.qmd
       - personal.qmd
       - projects.qmd
       - research.qmd
-      - contact.qmd
+      - contact.qmd 
+    right:
+      - icon: envelope
+        href: mailto:lauren.gunn-sandell@cuanschutz.edu
+      - icon: github
+        href: http://github.com/lgunnsandell
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alex-kaizer/
+
       
 editor: visual
 

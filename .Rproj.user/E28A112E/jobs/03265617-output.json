@@ -1,5 +1,0 @@
-[1,"==> quarto preview research.qmd --to html --no-watch-inputs --no-browse\n\n"]
-[1,"pandoc \n  to: html\n  output-file: research.html\n  standalone: true\n  title-prefix: Lauren Gunn-Sandell\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: lux\n  title: Publications\n  \n"]
-[1,"Output created: docs\\research.html\n\nPreparing to preview\n"]
-[1,"\nWatching files for changes\nBrowse at http://localhost:7949/research.html\n"]
-[1,"GET: /research.html\n"]
